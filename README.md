@@ -11,7 +11,7 @@ Naïve Bayes is a probabilistic machine learning algorithm based on Bayes' Theor
 # Installation and Usage
 1. **Clone this repository:**
    ```bash
-   git clone https://github.com/azkalltlhn/Gradient_Boosting_Classifier.git
+   git clone https://github.com/azkalltlhn/NaiveBayes-Algorithm.git
 
 2. **Install the required dependencies::**
    ```bash
